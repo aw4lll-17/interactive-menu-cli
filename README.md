@@ -25,4 +25,3 @@ It uses `colorama` to enhance the visual experience, and allows users to:
 
 ---
 
-Made with ❤️ by Aw4l
